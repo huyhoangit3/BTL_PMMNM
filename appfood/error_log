@@ -1,0 +1,61 @@
+[03-Jul-2021 16:28:45 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function helper_string_money() in /home/phapluat/public_html/appfood/app/views/frontend/home/index.php on line 190
+[03-Jul-2021 16:29:55 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/phapluat/public_html/appfood/app/helpers/cms_string_helper.php on line 142
+[03-Jul-2021 16:29:58 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/phapluat/public_html/appfood/app/helpers/cms_string_helper.php on line 142
+[03-Jul-2021 16:29:59 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/phapluat/public_html/appfood/app/helpers/cms_string_helper.php on line 142
+[03-Jul-2021 16:30:00 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/phapluat/public_html/appfood/app/helpers/cms_string_helper.php on line 142
+[03-Jul-2021 16:30:00 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/phapluat/public_html/appfood/app/helpers/cms_string_helper.php on line 142
+[03-Jul-2021 16:30:06 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/phapluat/public_html/appfood/app/helpers/cms_string_helper.php on line 142
+[03-Jul-2021 16:30:10 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/phapluat/public_html/appfood/app/helpers/cms_string_helper.php on line 142
+[03-Jul-2021 16:30:11 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/phapluat/public_html/appfood/app/helpers/cms_string_helper.php on line 142
+[03-Jul-2021 16:30:11 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/phapluat/public_html/appfood/app/helpers/cms_string_helper.php on line 142
+[03-Jul-2021 16:30:11 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/phapluat/public_html/appfood/app/helpers/cms_string_helper.php on line 142
+[03-Jul-2021 16:30:11 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/phapluat/public_html/appfood/app/helpers/cms_string_helper.php on line 142
+[03-Jul-2021 16:30:16 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/phapluat/public_html/appfood/app/helpers/cms_string_helper.php on line 142
+[03-Jul-2021 16:30:17 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/phapluat/public_html/appfood/app/helpers/cms_string_helper.php on line 142
+[03-Jul-2021 16:30:17 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/phapluat/public_html/appfood/app/helpers/cms_string_helper.php on line 142
+[03-Jul-2021 16:30:17 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/phapluat/public_html/appfood/app/helpers/cms_string_helper.php on line 142
+[03-Jul-2021 16:30:17 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/phapluat/public_html/appfood/app/helpers/cms_string_helper.php on line 142
+[03-Jul-2021 16:30:18 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/phapluat/public_html/appfood/app/helpers/cms_string_helper.php on line 142
+[03-Jul-2021 16:30:18 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/phapluat/public_html/appfood/app/helpers/cms_string_helper.php on line 142
+[03-Jul-2021 16:30:19 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/phapluat/public_html/appfood/app/helpers/cms_string_helper.php on line 142
+[04-Jul-2021 21:39:15 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/phapluat/public_html/appfood/app/views/frontend/home/index.php on line 455
+[04-Jul-2021 21:39:20 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/phapluat/public_html/appfood/app/views/frontend/home/index.php on line 455
+[04-Jul-2021 21:39:21 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/phapluat/public_html/appfood/app/views/frontend/home/index.php on line 455
+[04-Jul-2021 21:39:21 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/phapluat/public_html/appfood/app/views/frontend/home/index.php on line 455
+[04-Jul-2021 21:39:22 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '}' in /home/phapluat/public_html/appfood/app/views/frontend/home/index.php on line 455
+[04-Jul-2021 22:59:48 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected 'this' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/phapluat/public_html/appfood/app/views/frontend/home/index.php on line 10
+[04-Jul-2021 22:59:51 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected 'this' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/phapluat/public_html/appfood/app/views/frontend/home/index.php on line 10
+[04-Jul-2021 22:59:51 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected 'this' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/phapluat/public_html/appfood/app/views/frontend/home/index.php on line 10
+[04-Jul-2021 22:59:52 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected 'this' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/phapluat/public_html/appfood/app/views/frontend/home/index.php on line 10
+[04-Jul-2021 22:59:52 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected 'this' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/phapluat/public_html/appfood/app/views/frontend/home/index.php on line 10
+[04-Jul-2021 23:11:01 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ';' in /home/phapluat/public_html/appfood/app/views/frontend/home/index.php on line 422
+[04-Jul-2021 23:12:02 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ';' in /home/phapluat/public_html/appfood/app/views/frontend/home/index.php on line 422
+[04-Jul-2021 23:13:38 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ';' in /home/phapluat/public_html/appfood/app/views/frontend/home/index.php on line 422
+[04-Jul-2021 23:14:15 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '%' in /home/phapluat/public_html/appfood/app/views/frontend/home/index.php on line 422
+[04-Jul-2021 23:14:18 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '%' in /home/phapluat/public_html/appfood/app/views/frontend/home/index.php on line 422
+[04-Jul-2021 23:14:18 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '%' in /home/phapluat/public_html/appfood/app/views/frontend/home/index.php on line 422
+[04-Jul-2021 23:14:18 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '%' in /home/phapluat/public_html/appfood/app/views/frontend/home/index.php on line 422
+[04-Jul-2021 23:15:29 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ''%'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/phapluat/public_html/appfood/app/views/frontend/home/index.php on line 422
+[05-Jul-2021 04:08:01 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/phapluat/public_html/appfood/app/views/frontend/sanpham/category.php on line 29
+[05-Jul-2021 04:08:03 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/phapluat/public_html/appfood/app/views/frontend/sanpham/category.php on line 29
+[05-Jul-2021 04:08:04 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/phapluat/public_html/appfood/app/views/frontend/sanpham/category.php on line 29
+[05-Jul-2021 04:08:04 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/phapluat/public_html/appfood/app/views/frontend/sanpham/category.php on line 29
+[05-Jul-2021 04:08:04 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/phapluat/public_html/appfood/app/views/frontend/sanpham/category.php on line 29
+[10-Jul-2021 23:29:53 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected 'price_market' (T_STRING), expecting ',' or ';' in /home/phapluat/public_html/appfood/app/views/frontend/home/index.php on line 235
+[12-Jul-2021 00:14:52 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/phapluat/public_html/appfood/app/controllers/frontend/home.php on line 110
+[12-Jul-2021 00:14:54 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/phapluat/public_html/appfood/app/controllers/frontend/home.php on line 110
+[14-Jul-2021 22:06:08 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/phapluat/public_html/appfood/app/views/frontend/sanpham/category.php on line 48
+[14-Jul-2021 22:06:25 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/phapluat/public_html/appfood/app/views/frontend/sanpham/category.php on line 48
+[14-Jul-2021 22:06:27 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/phapluat/public_html/appfood/app/views/frontend/sanpham/category.php on line 48
+[14-Jul-2021 22:06:28 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/phapluat/public_html/appfood/app/views/frontend/sanpham/category.php on line 48
+[14-Jul-2021 22:06:28 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/phapluat/public_html/appfood/app/views/frontend/sanpham/category.php on line 48
+[14-Jul-2021 22:06:28 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/phapluat/public_html/appfood/app/views/frontend/sanpham/category.php on line 48
+[14-Jul-2021 22:06:30 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/phapluat/public_html/appfood/app/views/frontend/sanpham/category.php on line 48
+[14-Jul-2021 22:06:40 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/phapluat/public_html/appfood/app/views/frontend/sanpham/category.php on line 48
+[20-Jul-2021 12:16:03 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ''publish'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) in /home/phapluat/public_html/appfood/app/controllers/admin/contacts.php on line 51
+[20-Jul-2021 12:16:07 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ''publish'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) in /home/phapluat/public_html/appfood/app/controllers/admin/contacts.php on line 51
+[20-Jul-2021 12:16:08 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ''publish'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) in /home/phapluat/public_html/appfood/app/controllers/admin/contacts.php on line 51
+[20-Jul-2021 12:16:09 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ''publish'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) in /home/phapluat/public_html/appfood/app/controllers/admin/contacts.php on line 51
+[20-Jul-2021 12:16:09 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ''publish'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) in /home/phapluat/public_html/appfood/app/controllers/admin/contacts.php on line 51
+[20-Jul-2021 12:16:09 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ''publish'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) in /home/phapluat/public_html/appfood/app/controllers/admin/contacts.php on line 51
+[20-Jul-2021 12:16:13 Asia/Ho_Chi_Minh] PHP Parse error:  syntax error, unexpected ''publish'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) in /home/phapluat/public_html/appfood/app/controllers/admin/contacts.php on line 51
